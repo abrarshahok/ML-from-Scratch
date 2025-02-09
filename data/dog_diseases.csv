@@ -1,0 +1,1001 @@
+Breed,Age (years),Gender,Weight (kg),Disease,Treatment,Outcome
+German Shepherd,7,Female,43.80636689360353,Heart Disease,Surgery,Recovered
+German Shepherd,4,Male,47.72842806459389,Cancer,Antihistamines,Stable
+Labrador,13,Male,11.618306641806708,Heart Disease,Insulin,Recovered
+Poodle,11,Female,46.69644313226725,Allergy,Antibiotics,Recovered
+German Shepherd,8,Male,27.14523318857922,Infection,Antihistamines,Stable
+Poodle,13,Female,16.620997473453127,Allergy,Surgery,Deceased
+German Shepherd,5,Male,25.661109030721757,Diabetes,Chemotherapy,Deteriorated
+Poodle,7,Male,49.101465887846466,Cancer,Surgery,Recovered
+Golden Retriever,10,Female,27.16781422967913,Heart Disease,Insulin,Stable
+Poodle,3,Female,19.793822462937868,Heart Disease,Antibiotics,Recovered
+Poodle,7,Female,33.50303844425266,Cancer,Antibiotics,Stable
+Labrador,11,Male,15.806552845018688,Cancer,Insulin,Deteriorated
+Golden Retriever,11,Female,8.413849764889877,Diabetes,Antihistamines,Deteriorated
+Bulldog,8,Male,10.799587485979215,Allergy,Antihistamines,Deceased
+Labrador,5,Female,10.762062753099759,Heart Disease,Antibiotics,Stable
+Bulldog,4,Female,11.835621208053245,Diabetes,Antibiotics,Stable
+German Shepherd,8,Female,11.247222769223455,Allergy,Chemotherapy,Deceased
+Bulldog,8,Female,33.83936351614466,Diabetes,Antihistamines,Deceased
+Poodle,3,Female,13.184603797961516,Heart Disease,Insulin,Stable
+Bulldog,6,Female,20.555027749573846,Cancer,Antihistamines,Deceased
+Labrador,5,Male,45.35547844577053,Cancer,Chemotherapy,Deteriorated
+Labrador,2,Female,26.328273811829256,Allergy,Antibiotics,Recovered
+Bulldog,8,Male,35.04009823344622,Infection,Antibiotics,Deteriorated
+Labrador,12,Female,12.754394204073343,Allergy,Chemotherapy,Deceased
+Labrador,14,Female,13.653005846390185,Infection,Insulin,Stable
+Bulldog,6,Female,6.839087731991549,Diabetes,Antibiotics,Stable
+Golden Retriever,2,Male,12.602077838247403,Diabetes,Surgery,Deteriorated
+Golden Retriever,12,Male,17.536565256438138,Heart Disease,Antibiotics,Stable
+German Shepherd,5,Female,12.965471792453606,Infection,Surgery,Deceased
+Labrador,1,Male,8.991614019067502,Heart Disease,Chemotherapy,Deteriorated
+Bulldog,12,Female,10.428614199527036,Cancer,Chemotherapy,Stable
+Labrador,10,Female,25.73504456147266,Infection,Antibiotics,Recovered
+Poodle,6,Male,14.285017328260663,Allergy,Antihistamines,Recovered
+Labrador,13,Male,21.392143747163395,Cancer,Surgery,Deceased
+Labrador,12,Male,27.65377718846856,Cancer,Insulin,Stable
+Golden Retriever,9,Male,36.067767288321434,Allergy,Antibiotics,Deceased
+Bulldog,1,Female,6.769046292849453,Cancer,Insulin,Deteriorated
+Labrador,11,Male,40.97346795090692,Infection,Antibiotics,Recovered
+Golden Retriever,11,Male,33.255517527090845,Heart Disease,Antihistamines,Deteriorated
+German Shepherd,10,Female,8.679156437699236,Cancer,Antihistamines,Stable
+Golden Retriever,12,Male,44.31103808480498,Infection,Antihistamines,Deceased
+Golden Retriever,12,Male,46.43925802393159,Diabetes,Antihistamines,Deceased
+Golden Retriever,14,Male,7.748508193468869,Infection,Chemotherapy,Deceased
+Labrador,14,Male,17.459494166624168,Heart Disease,Chemotherapy,Deteriorated
+Labrador,14,Female,41.279057590687756,Infection,Surgery,Recovered
+German Shepherd,3,Female,38.67168606726462,Allergy,Insulin,Deteriorated
+Poodle,12,Male,13.30344587103698,Heart Disease,Antibiotics,Deteriorated
+Poodle,7,Male,14.420719550151963,Diabetes,Antibiotics,Stable
+Poodle,4,Female,21.67124462561219,Allergy,Chemotherapy,Stable
+German Shepherd,9,Male,26.80353433359596,Infection,Antibiotics,Stable
+Poodle,3,Male,32.82146471886332,Heart Disease,Chemotherapy,Recovered
+Poodle,5,Male,21.601113780639757,Diabetes,Surgery,Recovered
+Golden Retriever,3,Male,25.814062225991655,Allergy,Insulin,Stable
+Labrador,7,Male,38.63619221601905,Diabetes,Surgery,Stable
+Labrador,5,Male,6.650744130076905,Infection,Antihistamines,Recovered
+Golden Retriever,9,Male,16.359662495480933,Diabetes,Antihistamines,Deceased
+Golden Retriever,7,Male,37.10073136480486,Cancer,Antihistamines,Recovered
+Golden Retriever,2,Male,45.28430769592397,Allergy,Surgery,Recovered
+Labrador,4,Female,28.025484895204976,Diabetes,Antibiotics,Recovered
+Poodle,9,Female,28.945106836939203,Infection,Insulin,Stable
+Golden Retriever,12,Female,9.822740510289922,Infection,Antihistamines,Deceased
+German Shepherd,14,Male,25.13355650705546,Diabetes,Antihistamines,Recovered
+Golden Retriever,2,Male,28.967776990476043,Infection,Antihistamines,Stable
+Bulldog,10,Female,15.911172663562835,Heart Disease,Insulin,Deteriorated
+Golden Retriever,9,Male,17.115945392722143,Heart Disease,Antihistamines,Deteriorated
+Labrador,10,Female,21.97778733970802,Heart Disease,Insulin,Recovered
+Golden Retriever,5,Male,5.903203899997687,Cancer,Antihistamines,Deteriorated
+Bulldog,2,Female,19.493562451243022,Diabetes,Surgery,Deceased
+German Shepherd,4,Female,14.51516031484451,Cancer,Surgery,Deteriorated
+Poodle,12,Female,19.73738084800616,Infection,Insulin,Deteriorated
+Golden Retriever,12,Male,10.389295931866304,Cancer,Surgery,Deceased
+Bulldog,7,Female,45.07372763329527,Infection,Insulin,Recovered
+Bulldog,12,Male,31.71166040993219,Infection,Surgery,Recovered
+German Shepherd,13,Male,35.55960436150203,Allergy,Surgery,Deceased
+Labrador,8,Male,40.51270573733022,Heart Disease,Insulin,Deceased
+Golden Retriever,3,Male,27.429898951807576,Infection,Antibiotics,Deceased
+Bulldog,14,Male,8.911412963934065,Allergy,Surgery,Deteriorated
+German Shepherd,1,Male,29.16979438183465,Heart Disease,Antihistamines,Deceased
+Poodle,4,Male,31.407850310939562,Infection,Antibiotics,Stable
+Bulldog,2,Female,38.54477633829485,Infection,Insulin,Deteriorated
+German Shepherd,8,Female,24.42467958033557,Cancer,Antibiotics,Recovered
+Labrador,4,Female,10.74111362580037,Cancer,Chemotherapy,Recovered
+Labrador,2,Male,17.769915760942602,Heart Disease,Chemotherapy,Recovered
+Bulldog,14,Male,21.33870333793858,Infection,Surgery,Deteriorated
+Bulldog,6,Male,34.06627585992206,Diabetes,Surgery,Stable
+Golden Retriever,6,Male,30.685023710101035,Cancer,Antihistamines,Deceased
+German Shepherd,10,Female,21.024352665403082,Heart Disease,Antibiotics,Deceased
+Bulldog,4,Male,49.39318619568409,Infection,Chemotherapy,Recovered
+Golden Retriever,6,Female,32.25986687105993,Infection,Surgery,Recovered
+Golden Retriever,13,Male,15.675205628119752,Diabetes,Antibiotics,Deteriorated
+Bulldog,2,Female,9.580211267918168,Heart Disease,Surgery,Stable
+Labrador,10,Male,11.87866126329494,Infection,Surgery,Deceased
+German Shepherd,12,Female,16.068097777302867,Cancer,Chemotherapy,Deteriorated
+German Shepherd,2,Male,12.230661796680005,Diabetes,Chemotherapy,Deceased
+Labrador,10,Female,13.39551608230876,Heart Disease,Surgery,Recovered
+Bulldog,14,Male,17.82928259122312,Diabetes,Insulin,Deceased
+German Shepherd,4,Female,12.801811788263967,Cancer,Surgery,Stable
+Bulldog,14,Female,45.354444108189135,Heart Disease,Surgery,Stable
+Bulldog,8,Male,8.6105185547739,Diabetes,Antihistamines,Recovered
+Golden Retriever,14,Female,28.60301253066146,Allergy,Antihistamines,Stable
+Labrador,7,Male,23.467857214534767,Cancer,Antihistamines,Stable
+Bulldog,12,Male,49.20703776088729,Cancer,Insulin,Deteriorated
+Poodle,9,Male,10.041750597562356,Cancer,Insulin,Deceased
+Labrador,14,Female,22.903501957058374,Allergy,Surgery,Recovered
+German Shepherd,8,Female,48.6261694973916,Allergy,Antihistamines,Recovered
+Golden Retriever,5,Male,43.94782066522911,Infection,Insulin,Recovered
+German Shepherd,13,Male,41.7682431927176,Diabetes,Chemotherapy,Recovered
+German Shepherd,2,Female,16.605627217022292,Infection,Surgery,Recovered
+Labrador,5,Female,12.689941432552962,Diabetes,Antibiotics,Stable
+German Shepherd,8,Female,35.08894489659939,Allergy,Surgery,Deteriorated
+Bulldog,10,Male,46.82191951074136,Allergy,Antibiotics,Recovered
+German Shepherd,9,Male,30.05433018562684,Infection,Antihistamines,Deteriorated
+Golden Retriever,12,Male,30.722571026145495,Heart Disease,Antibiotics,Deteriorated
+Golden Retriever,12,Male,17.59905921471279,Infection,Antihistamines,Stable
+Poodle,12,Male,39.62718199363716,Diabetes,Chemotherapy,Recovered
+Golden Retriever,13,Female,13.416968685088552,Infection,Antibiotics,Stable
+German Shepherd,9,Male,19.565565638190968,Cancer,Surgery,Recovered
+Golden Retriever,13,Female,24.144639737738753,Diabetes,Antihistamines,Stable
+Labrador,13,Female,27.842467040800475,Diabetes,Surgery,Deteriorated
+Golden Retriever,1,Male,15.908437958678611,Heart Disease,Insulin,Recovered
+Bulldog,9,Female,10.167657113264159,Allergy,Antihistamines,Deceased
+Labrador,7,Male,32.47790190987347,Diabetes,Antibiotics,Deteriorated
+Poodle,9,Female,17.98837489581151,Allergy,Antihistamines,Deceased
+Bulldog,8,Male,31.155719964017553,Infection,Surgery,Deteriorated
+German Shepherd,1,Male,11.946322187339103,Cancer,Chemotherapy,Stable
+German Shepherd,12,Female,26.651304583466786,Heart Disease,Antihistamines,Recovered
+German Shepherd,8,Male,28.966524464821365,Allergy,Antibiotics,Deteriorated
+Bulldog,8,Female,7.332059157009211,Diabetes,Insulin,Stable
+Bulldog,11,Male,20.147192518726428,Allergy,Chemotherapy,Recovered
+Bulldog,3,Male,11.04866046225384,Diabetes,Insulin,Recovered
+Labrador,1,Male,7.851873671274548,Allergy,Antihistamines,Deteriorated
+Labrador,8,Female,49.54821045754753,Diabetes,Surgery,Recovered
+German Shepherd,3,Female,19.505923023862536,Infection,Surgery,Deteriorated
+Golden Retriever,3,Male,41.44435006345857,Diabetes,Antibiotics,Recovered
+German Shepherd,1,Female,16.458829464369373,Diabetes,Surgery,Deceased
+Poodle,11,Male,35.66762250007682,Cancer,Chemotherapy,Stable
+Labrador,5,Female,39.210253695035895,Diabetes,Surgery,Deceased
+Bulldog,10,Female,31.803743327352993,Cancer,Antibiotics,Deteriorated
+Labrador,7,Male,26.220928484757128,Heart Disease,Antihistamines,Deceased
+Bulldog,10,Male,23.532841136627084,Cancer,Antihistamines,Deteriorated
+Poodle,9,Male,20.69907199443479,Infection,Surgery,Recovered
+Poodle,12,Male,46.828811491152166,Cancer,Insulin,Recovered
+Labrador,7,Male,42.377873350447814,Heart Disease,Antihistamines,Deteriorated
+Bulldog,9,Female,48.426210979993066,Infection,Surgery,Deceased
+Poodle,8,Female,10.593375056849514,Allergy,Antibiotics,Recovered
+German Shepherd,12,Male,37.889036384163994,Allergy,Surgery,Stable
+German Shepherd,2,Male,47.225320556946706,Cancer,Antihistamines,Recovered
+Bulldog,1,Male,13.155487977454706,Cancer,Antibiotics,Stable
+Labrador,7,Female,7.992332031504987,Heart Disease,Surgery,Deceased
+Poodle,7,Male,38.35042921805266,Heart Disease,Chemotherapy,Stable
+Labrador,14,Male,30.851290093096036,Diabetes,Antibiotics,Stable
+German Shepherd,8,Female,42.882294954122244,Heart Disease,Chemotherapy,Stable
+Poodle,5,Female,11.289756948183028,Diabetes,Insulin,Stable
+Labrador,3,Female,40.787029033695056,Infection,Antibiotics,Recovered
+Golden Retriever,12,Female,14.073229402148504,Cancer,Chemotherapy,Stable
+Bulldog,8,Male,12.364517428956702,Infection,Antihistamines,Recovered
+Bulldog,6,Female,12.391960906894681,Heart Disease,Antihistamines,Stable
+Golden Retriever,11,Female,41.6558624104122,Infection,Insulin,Deteriorated
+German Shepherd,3,Male,34.933874931329,Infection,Antibiotics,Deceased
+Poodle,1,Male,28.53794411461037,Infection,Antibiotics,Stable
+Bulldog,3,Male,21.147371785557613,Heart Disease,Antibiotics,Deteriorated
+Golden Retriever,5,Female,44.47402433658987,Infection,Insulin,Stable
+Golden Retriever,14,Male,22.66002983401859,Diabetes,Antibiotics,Stable
+German Shepherd,3,Female,41.746974776220966,Heart Disease,Antihistamines,Stable
+German Shepherd,1,Female,24.76107088565983,Infection,Chemotherapy,Deteriorated
+Labrador,5,Female,21.96249932412084,Heart Disease,Antihistamines,Deceased
+Bulldog,10,Male,25.82059035513229,Allergy,Antihistamines,Deteriorated
+Labrador,7,Female,18.562004337386394,Diabetes,Chemotherapy,Deceased
+Golden Retriever,14,Male,38.6424221079313,Infection,Antihistamines,Stable
+Poodle,7,Male,27.62241755416156,Allergy,Insulin,Recovered
+Poodle,11,Male,15.44957128160678,Allergy,Chemotherapy,Stable
+German Shepherd,9,Female,45.48085579735558,Heart Disease,Antihistamines,Deceased
+Poodle,10,Female,22.275104961794515,Allergy,Surgery,Deteriorated
+Poodle,10,Female,29.459878750129487,Diabetes,Antihistamines,Stable
+Poodle,12,Male,45.79124499340461,Diabetes,Insulin,Deteriorated
+Golden Retriever,13,Female,33.090709816129646,Cancer,Antibiotics,Deteriorated
+Poodle,3,Female,10.260411831876382,Diabetes,Antihistamines,Deteriorated
+Poodle,7,Female,47.29244556260638,Allergy,Antibiotics,Stable
+Poodle,1,Female,33.2468623882138,Diabetes,Surgery,Deteriorated
+Labrador,4,Female,20.070752659568875,Heart Disease,Antihistamines,Deteriorated
+Golden Retriever,13,Male,11.267243269852425,Cancer,Chemotherapy,Stable
+German Shepherd,4,Male,40.73113351716332,Allergy,Antibiotics,Deteriorated
+Labrador,14,Male,32.90327401678311,Cancer,Surgery,Stable
+Bulldog,5,Male,29.00574913893447,Allergy,Chemotherapy,Deceased
+Golden Retriever,7,Female,45.225166237293095,Heart Disease,Chemotherapy,Deceased
+Golden Retriever,7,Male,40.486874505103884,Cancer,Chemotherapy,Deceased
+Bulldog,13,Female,11.825369587973803,Infection,Chemotherapy,Deteriorated
+Bulldog,11,Male,19.02749305079967,Allergy,Antihistamines,Recovered
+Bulldog,13,Male,16.18201129165096,Infection,Antihistamines,Recovered
+German Shepherd,4,Male,38.47758316577046,Cancer,Antihistamines,Deteriorated
+Poodle,13,Female,6.508959563110072,Infection,Surgery,Recovered
+Golden Retriever,7,Female,30.645035819209244,Infection,Surgery,Stable
+Poodle,11,Male,39.31064085833108,Cancer,Surgery,Recovered
+Poodle,3,Female,44.45445365427872,Heart Disease,Insulin,Deteriorated
+Bulldog,6,Male,20.393678692215836,Infection,Surgery,Deteriorated
+German Shepherd,12,Male,41.95657871024058,Infection,Antihistamines,Stable
+Labrador,2,Male,9.978428162984326,Heart Disease,Antihistamines,Deceased
+German Shepherd,10,Female,43.090353128053316,Infection,Insulin,Deteriorated
+Poodle,13,Male,10.73698980493921,Infection,Insulin,Stable
+German Shepherd,14,Male,22.877928075216527,Infection,Surgery,Recovered
+Bulldog,9,Male,40.878291460079915,Diabetes,Antibiotics,Recovered
+Labrador,5,Female,11.746284230694819,Heart Disease,Insulin,Stable
+Bulldog,6,Male,15.316312785468867,Infection,Chemotherapy,Stable
+Labrador,12,Female,37.501365577687984,Heart Disease,Antihistamines,Deteriorated
+Poodle,12,Male,37.401644144573346,Allergy,Chemotherapy,Recovered
+Labrador,12,Female,33.85164347983838,Allergy,Antihistamines,Stable
+Labrador,12,Male,36.2276800010195,Infection,Antihistamines,Recovered
+Labrador,4,Male,29.42259995064183,Heart Disease,Insulin,Stable
+German Shepherd,14,Female,16.330957650812874,Heart Disease,Insulin,Recovered
+German Shepherd,14,Female,20.556319707676373,Heart Disease,Chemotherapy,Deceased
+Poodle,11,Male,13.171897256064154,Diabetes,Antihistamines,Deteriorated
+Labrador,10,Female,45.88027526001328,Allergy,Chemotherapy,Recovered
+Golden Retriever,7,Male,31.25263076447542,Heart Disease,Antibiotics,Deceased
+Poodle,12,Male,23.038313754363795,Heart Disease,Chemotherapy,Recovered
+Labrador,9,Male,25.79026116398597,Diabetes,Surgery,Recovered
+Labrador,7,Female,47.62775028253169,Diabetes,Chemotherapy,Deceased
+German Shepherd,14,Male,11.900813140223608,Heart Disease,Surgery,Recovered
+Poodle,1,Female,31.380342440755875,Cancer,Surgery,Recovered
+Labrador,1,Male,27.76499054980097,Heart Disease,Surgery,Deteriorated
+Labrador,9,Female,32.51544059455915,Heart Disease,Antibiotics,Deceased
+Poodle,11,Female,5.814958271937823,Diabetes,Chemotherapy,Deceased
+Golden Retriever,14,Male,44.24557590248682,Diabetes,Chemotherapy,Stable
+Poodle,9,Female,46.94532271176256,Heart Disease,Antibiotics,Recovered
+Poodle,4,Male,30.430993261514402,Heart Disease,Antihistamines,Deteriorated
+Golden Retriever,13,Male,36.34928707446015,Heart Disease,Insulin,Recovered
+Poodle,9,Male,46.512472152978305,Diabetes,Chemotherapy,Recovered
+Labrador,3,Male,36.82573854410293,Heart Disease,Insulin,Stable
+Poodle,7,Male,11.86425693114176,Heart Disease,Antibiotics,Recovered
+Golden Retriever,6,Female,30.93297620750659,Infection,Antihistamines,Deteriorated
+Bulldog,8,Male,32.302177087228515,Cancer,Antihistamines,Deteriorated
+Poodle,11,Female,24.08588020860737,Allergy,Antihistamines,Stable
+German Shepherd,9,Female,38.13999060311253,Cancer,Antibiotics,Recovered
+Labrador,14,Male,47.04651566460567,Infection,Surgery,Deteriorated
+Labrador,5,Female,46.650583080804935,Allergy,Surgery,Recovered
+German Shepherd,1,Male,25.287771713185943,Heart Disease,Insulin,Recovered
+German Shepherd,3,Female,10.095712062833986,Infection,Surgery,Recovered
+Poodle,10,Female,49.317853953305054,Heart Disease,Surgery,Stable
+German Shepherd,12,Female,42.75041389006704,Diabetes,Antihistamines,Recovered
+Bulldog,8,Male,10.609820654147008,Infection,Antihistamines,Deteriorated
+Golden Retriever,11,Female,46.437884717781756,Diabetes,Insulin,Recovered
+German Shepherd,6,Male,44.145336292795776,Infection,Chemotherapy,Deteriorated
+German Shepherd,8,Female,28.347712570673245,Infection,Insulin,Recovered
+Bulldog,9,Female,31.607394608521815,Diabetes,Insulin,Deteriorated
+Labrador,4,Female,22.955121674155862,Allergy,Antibiotics,Deteriorated
+Labrador,1,Female,7.4642737469914096,Cancer,Antibiotics,Recovered
+Poodle,14,Male,20.08387587406554,Heart Disease,Insulin,Recovered
+Bulldog,1,Male,41.12840518691051,Infection,Insulin,Deteriorated
+Golden Retriever,10,Female,5.208441035207128,Heart Disease,Insulin,Deceased
+Golden Retriever,4,Female,20.007462726101487,Diabetes,Surgery,Stable
+Bulldog,12,Male,22.91759121159245,Heart Disease,Antibiotics,Deceased
+Golden Retriever,14,Male,29.18280213220653,Diabetes,Insulin,Deceased
+Labrador,7,Male,46.39350273857422,Heart Disease,Antihistamines,Recovered
+Golden Retriever,2,Male,20.585569746468256,Cancer,Antihistamines,Stable
+Golden Retriever,3,Female,20.612894085330247,Cancer,Surgery,Deceased
+Bulldog,1,Female,38.18755616493868,Cancer,Surgery,Recovered
+Bulldog,5,Male,25.349807340041323,Cancer,Chemotherapy,Deceased
+Golden Retriever,1,Male,15.107217032299188,Cancer,Chemotherapy,Deceased
+German Shepherd,8,Male,25.3597782259712,Cancer,Chemotherapy,Recovered
+Bulldog,1,Male,11.338565917090992,Diabetes,Surgery,Recovered
+Poodle,11,Male,12.937414392780049,Infection,Surgery,Recovered
+Poodle,1,Male,27.426549773276587,Heart Disease,Surgery,Stable
+Labrador,2,Female,23.851645227704655,Cancer,Antihistamines,Deceased
+Golden Retriever,2,Female,46.168065548064504,Diabetes,Surgery,Recovered
+German Shepherd,12,Female,21.30772546024849,Diabetes,Antihistamines,Deteriorated
+Labrador,6,Male,31.126475762511955,Diabetes,Chemotherapy,Deceased
+Golden Retriever,7,Male,33.45189295637887,Infection,Chemotherapy,Deteriorated
+Bulldog,5,Male,5.5892505464750135,Heart Disease,Chemotherapy,Stable
+Poodle,1,Female,34.85918174075198,Infection,Insulin,Recovered
+German Shepherd,1,Male,13.011618509138815,Allergy,Insulin,Deteriorated
+Poodle,3,Male,48.24816428612548,Diabetes,Antibiotics,Stable
+Bulldog,14,Female,11.689822748890084,Allergy,Antibiotics,Recovered
+Golden Retriever,2,Male,23.658085567716068,Cancer,Antibiotics,Deteriorated
+Bulldog,5,Female,8.840735063538974,Cancer,Insulin,Deteriorated
+Bulldog,12,Female,49.85934133306763,Infection,Insulin,Stable
+Poodle,10,Male,27.598775464905916,Heart Disease,Antibiotics,Recovered
+German Shepherd,6,Female,31.79232577940197,Allergy,Antibiotics,Recovered
+Bulldog,7,Male,8.018441482479236,Heart Disease,Surgery,Deteriorated
+Poodle,4,Female,38.748221167963,Infection,Antibiotics,Deteriorated
+German Shepherd,7,Male,14.445751689301359,Cancer,Surgery,Deteriorated
+Golden Retriever,11,Female,45.41244302483212,Heart Disease,Antihistamines,Recovered
+Golden Retriever,8,Male,14.231283821690322,Heart Disease,Insulin,Stable
+Labrador,11,Female,13.580947429864995,Cancer,Antibiotics,Stable
+Poodle,1,Female,6.64473505316427,Allergy,Insulin,Recovered
+German Shepherd,6,Female,26.243012529949965,Cancer,Insulin,Deceased
+Bulldog,8,Male,30.41785099681774,Heart Disease,Insulin,Stable
+Golden Retriever,5,Male,7.956888774275857,Allergy,Antihistamines,Deteriorated
+German Shepherd,4,Female,39.89874275127548,Allergy,Chemotherapy,Deceased
+Poodle,2,Male,25.397997563661242,Cancer,Antibiotics,Deceased
+Labrador,6,Female,28.597562119741102,Heart Disease,Chemotherapy,Stable
+Golden Retriever,6,Male,24.834323612220267,Infection,Chemotherapy,Deceased
+German Shepherd,11,Female,23.03433773938967,Heart Disease,Chemotherapy,Deceased
+German Shepherd,1,Male,30.183814908869806,Diabetes,Insulin,Stable
+German Shepherd,9,Female,11.985811066882063,Infection,Surgery,Stable
+Poodle,12,Female,13.1867658722872,Allergy,Insulin,Deceased
+Poodle,11,Female,43.78035294560828,Infection,Insulin,Deteriorated
+Poodle,6,Female,47.575195796013475,Allergy,Chemotherapy,Recovered
+Bulldog,13,Male,21.798919232588883,Allergy,Insulin,Deceased
+German Shepherd,3,Female,17.183510291459918,Infection,Chemotherapy,Deceased
+Golden Retriever,4,Male,33.97997944575571,Allergy,Surgery,Deteriorated
+Poodle,12,Male,23.39303769941434,Allergy,Antibiotics,Deceased
+Poodle,11,Female,6.142386004715519,Diabetes,Chemotherapy,Deceased
+German Shepherd,4,Male,12.026866881478567,Heart Disease,Surgery,Recovered
+Poodle,3,Male,37.21875029813289,Heart Disease,Antibiotics,Recovered
+Bulldog,10,Male,34.65157738595681,Diabetes,Antihistamines,Recovered
+Bulldog,3,Female,6.219319662656757,Infection,Chemotherapy,Stable
+Poodle,3,Male,14.988747286982726,Cancer,Chemotherapy,Stable
+German Shepherd,4,Male,15.398365846463212,Cancer,Antihistamines,Recovered
+German Shepherd,7,Female,35.23517346194278,Cancer,Antihistamines,Recovered
+German Shepherd,4,Female,5.886974198946387,Diabetes,Chemotherapy,Stable
+Labrador,9,Male,9.684886189305823,Diabetes,Antihistamines,Deteriorated
+Poodle,1,Female,40.99622384179352,Allergy,Insulin,Deceased
+German Shepherd,8,Male,13.034509792445013,Cancer,Antibiotics,Deceased
+Bulldog,7,Male,34.37357485333436,Infection,Antibiotics,Recovered
+Golden Retriever,2,Male,15.718225147102693,Infection,Antibiotics,Deteriorated
+Golden Retriever,8,Female,9.474862674170533,Cancer,Insulin,Stable
+German Shepherd,1,Male,15.942748594975434,Cancer,Antihistamines,Recovered
+Golden Retriever,11,Female,37.50201193350466,Cancer,Surgery,Deteriorated
+Golden Retriever,12,Female,43.50634106478286,Diabetes,Antihistamines,Deteriorated
+Labrador,9,Male,42.359893905514625,Diabetes,Chemotherapy,Deteriorated
+Bulldog,9,Female,22.873258832830466,Diabetes,Antibiotics,Stable
+Bulldog,2,Female,35.063831145679075,Heart Disease,Antihistamines,Stable
+Labrador,7,Female,14.224293293711943,Infection,Surgery,Deceased
+Labrador,14,Female,18.191647861745597,Infection,Chemotherapy,Deceased
+Golden Retriever,10,Female,45.33511183345039,Allergy,Insulin,Deteriorated
+Poodle,3,Male,5.5850865579831215,Diabetes,Insulin,Deteriorated
+Golden Retriever,7,Female,8.847883888451063,Heart Disease,Surgery,Stable
+Labrador,12,Male,14.35488148157123,Heart Disease,Chemotherapy,Deceased
+Bulldog,10,Male,6.193949174321887,Infection,Antibiotics,Deteriorated
+Golden Retriever,9,Male,13.164594579040878,Diabetes,Antihistamines,Deceased
+Poodle,4,Male,31.236870243636147,Allergy,Chemotherapy,Deceased
+Golden Retriever,12,Male,23.964104776662406,Diabetes,Insulin,Deteriorated
+German Shepherd,1,Male,45.17022699846387,Cancer,Surgery,Stable
+Golden Retriever,2,Female,41.78496027822984,Diabetes,Surgery,Deteriorated
+Labrador,1,Female,20.38178082640442,Cancer,Antihistamines,Deteriorated
+Bulldog,14,Female,16.67405450440816,Cancer,Surgery,Deceased
+Bulldog,12,Male,22.08615836752701,Allergy,Surgery,Deteriorated
+Labrador,5,Female,31.56327241316635,Infection,Chemotherapy,Stable
+German Shepherd,5,Female,17.062863837029433,Diabetes,Antibiotics,Deteriorated
+Labrador,11,Female,33.08670085321103,Cancer,Antihistamines,Stable
+Golden Retriever,7,Male,23.42352434860582,Diabetes,Chemotherapy,Stable
+Labrador,9,Female,29.84212313833911,Infection,Antibiotics,Deceased
+Labrador,9,Male,24.62569381108925,Infection,Chemotherapy,Recovered
+German Shepherd,3,Female,18.250959179386296,Heart Disease,Chemotherapy,Recovered
+Golden Retriever,3,Male,47.68039881329705,Infection,Surgery,Deceased
+Poodle,3,Male,39.36226073718924,Allergy,Antibiotics,Deteriorated
+Poodle,4,Male,11.305092909490366,Cancer,Antihistamines,Deceased
+Bulldog,8,Female,44.081058915406075,Heart Disease,Antihistamines,Stable
+Labrador,6,Female,26.934403921228114,Allergy,Antibiotics,Recovered
+Bulldog,8,Male,45.25485021023411,Diabetes,Surgery,Deceased
+German Shepherd,1,Female,40.99348651762919,Cancer,Insulin,Deteriorated
+Poodle,8,Male,24.134607701115506,Infection,Chemotherapy,Deceased
+Labrador,4,Male,6.011118874405283,Cancer,Surgery,Recovered
+German Shepherd,11,Female,17.090481172322573,Diabetes,Antibiotics,Deceased
+German Shepherd,1,Female,29.373539659739013,Heart Disease,Chemotherapy,Deceased
+Labrador,8,Female,33.50651989217663,Heart Disease,Antihistamines,Recovered
+German Shepherd,4,Male,16.604945844494104,Heart Disease,Insulin,Stable
+Labrador,6,Male,11.271023333277085,Infection,Antihistamines,Stable
+Labrador,8,Female,42.57186065596846,Allergy,Antibiotics,Recovered
+Golden Retriever,4,Male,49.29809813165985,Allergy,Chemotherapy,Deceased
+Bulldog,14,Female,28.656058203620862,Cancer,Antibiotics,Recovered
+German Shepherd,3,Male,12.725567863173659,Infection,Chemotherapy,Stable
+German Shepherd,14,Female,17.253829693371603,Heart Disease,Surgery,Deteriorated
+Golden Retriever,9,Female,5.827580444636003,Heart Disease,Insulin,Deceased
+Golden Retriever,3,Male,46.143446295222454,Diabetes,Surgery,Stable
+Golden Retriever,9,Female,10.298798730056351,Diabetes,Surgery,Deceased
+Poodle,13,Female,30.94324139814141,Heart Disease,Antibiotics,Recovered
+Poodle,2,Male,17.33248493092427,Heart Disease,Insulin,Deteriorated
+Poodle,14,Female,29.938010113210705,Infection,Chemotherapy,Recovered
+Labrador,2,Male,34.31391747583389,Allergy,Chemotherapy,Deteriorated
+German Shepherd,2,Female,42.33838116682407,Diabetes,Antihistamines,Deceased
+Bulldog,6,Male,14.288957229227144,Allergy,Chemotherapy,Deceased
+Labrador,3,Female,5.494812289631621,Infection,Antibiotics,Recovered
+German Shepherd,13,Female,11.159853353096327,Heart Disease,Surgery,Deteriorated
+German Shepherd,9,Female,45.50083888316473,Allergy,Surgery,Deteriorated
+Golden Retriever,4,Female,44.32505349031319,Heart Disease,Surgery,Deceased
+Golden Retriever,1,Male,31.883589597663875,Heart Disease,Insulin,Recovered
+Labrador,4,Male,32.0232587195144,Cancer,Chemotherapy,Deteriorated
+Golden Retriever,1,Male,34.9266503545815,Allergy,Antibiotics,Deceased
+German Shepherd,14,Male,12.891707538055233,Allergy,Insulin,Stable
+Golden Retriever,5,Male,46.14853756662319,Heart Disease,Antihistamines,Recovered
+Poodle,4,Male,23.84467362014329,Infection,Antibiotics,Stable
+Golden Retriever,8,Male,22.241233771227385,Cancer,Antibiotics,Recovered
+German Shepherd,8,Female,28.35129673772769,Heart Disease,Antibiotics,Deceased
+Labrador,7,Female,7.113468504877477,Diabetes,Surgery,Deteriorated
+Bulldog,3,Female,12.482751594023574,Diabetes,Antibiotics,Deteriorated
+Golden Retriever,1,Female,38.21151273918667,Cancer,Chemotherapy,Deteriorated
+German Shepherd,1,Male,8.72594005663069,Infection,Antibiotics,Recovered
+Bulldog,12,Male,32.14184492598747,Heart Disease,Surgery,Deceased
+Bulldog,11,Male,16.040709935659443,Allergy,Antibiotics,Stable
+Poodle,3,Female,22.518302631888943,Cancer,Antihistamines,Deceased
+Bulldog,6,Male,17.991218154681494,Infection,Antihistamines,Stable
+German Shepherd,7,Female,21.00527224092271,Allergy,Surgery,Recovered
+German Shepherd,6,Male,37.357065733291044,Diabetes,Chemotherapy,Recovered
+Golden Retriever,14,Male,18.370477203042874,Diabetes,Chemotherapy,Stable
+Golden Retriever,14,Male,30.488208813360373,Allergy,Insulin,Stable
+Golden Retriever,6,Male,26.422268098959485,Cancer,Surgery,Stable
+Bulldog,6,Female,34.86520244131917,Diabetes,Antibiotics,Deceased
+Bulldog,13,Female,47.15733826961411,Heart Disease,Surgery,Stable
+Poodle,3,Male,37.965744374461266,Allergy,Insulin,Recovered
+Golden Retriever,6,Female,14.672317036584055,Allergy,Surgery,Recovered
+Labrador,8,Male,6.40324107775781,Diabetes,Surgery,Deteriorated
+Poodle,11,Male,16.80188199349213,Cancer,Insulin,Stable
+Labrador,11,Male,31.77850688151147,Heart Disease,Chemotherapy,Deceased
+Bulldog,2,Male,7.314161606791266,Cancer,Antibiotics,Deceased
+Poodle,5,Female,27.336481124055634,Infection,Insulin,Deceased
+Poodle,14,Male,31.857928201260016,Infection,Antihistamines,Deteriorated
+German Shepherd,1,Male,20.040975086763236,Diabetes,Chemotherapy,Recovered
+Bulldog,12,Female,39.69104916856199,Diabetes,Antihistamines,Deceased
+Bulldog,1,Male,9.796921391019731,Diabetes,Chemotherapy,Recovered
+Poodle,5,Female,8.381200178111394,Infection,Antibiotics,Deteriorated
+Bulldog,12,Male,37.76849402916215,Cancer,Antibiotics,Stable
+Poodle,13,Male,27.29710922927893,Cancer,Surgery,Stable
+German Shepherd,3,Male,35.978107839248125,Diabetes,Antihistamines,Stable
+Poodle,4,Male,24.56723023716858,Heart Disease,Chemotherapy,Deceased
+Bulldog,3,Male,16.088091495759805,Cancer,Antibiotics,Stable
+Bulldog,1,Male,41.85960429533899,Infection,Insulin,Deceased
+Poodle,1,Female,40.97371455360407,Allergy,Antibiotics,Deteriorated
+Poodle,12,Male,36.26134118844921,Allergy,Insulin,Deteriorated
+Poodle,12,Female,17.246531175348323,Allergy,Chemotherapy,Deceased
+Golden Retriever,14,Female,31.56038000910892,Heart Disease,Antibiotics,Recovered
+Bulldog,13,Male,21.243825362301205,Diabetes,Antibiotics,Stable
+Bulldog,14,Female,9.121193299698536,Infection,Chemotherapy,Stable
+Golden Retriever,5,Male,46.279110895800926,Heart Disease,Antibiotics,Stable
+Poodle,6,Female,11.156838391353263,Infection,Insulin,Deceased
+German Shepherd,3,Male,47.76068092193611,Infection,Antibiotics,Deteriorated
+Poodle,12,Female,25.070259783108007,Diabetes,Antihistamines,Stable
+Poodle,9,Female,13.330981797737884,Allergy,Surgery,Deteriorated
+Golden Retriever,5,Male,29.385542632026116,Diabetes,Insulin,Stable
+Bulldog,8,Female,44.282562614438376,Heart Disease,Antihistamines,Stable
+Poodle,13,Male,37.95011988843025,Heart Disease,Chemotherapy,Deceased
+Bulldog,1,Male,41.295251653765234,Heart Disease,Insulin,Recovered
+Labrador,14,Male,34.64525150198228,Diabetes,Surgery,Deceased
+Bulldog,5,Male,36.15244540330336,Infection,Surgery,Stable
+German Shepherd,3,Male,43.213804320439365,Infection,Chemotherapy,Stable
+German Shepherd,12,Female,16.235060398663368,Cancer,Chemotherapy,Recovered
+Poodle,1,Female,27.02412336394132,Heart Disease,Insulin,Deteriorated
+Bulldog,4,Female,14.954424881882101,Infection,Antibiotics,Deteriorated
+Poodle,13,Male,49.445060359849116,Cancer,Chemotherapy,Stable
+Golden Retriever,5,Female,47.4826702858976,Infection,Antibiotics,Deteriorated
+German Shepherd,7,Female,6.774206511582765,Heart Disease,Antihistamines,Stable
+Poodle,1,Female,36.75088276320598,Allergy,Surgery,Recovered
+Golden Retriever,3,Female,46.63617428370496,Heart Disease,Antibiotics,Recovered
+Poodle,2,Female,13.12589053073001,Diabetes,Surgery,Stable
+Bulldog,9,Male,30.557535374868326,Infection,Antibiotics,Recovered
+Bulldog,10,Male,46.19697339146188,Infection,Antihistamines,Deceased
+Bulldog,6,Female,6.527569036360948,Diabetes,Chemotherapy,Deceased
+Bulldog,10,Male,36.383912026107794,Diabetes,Antihistamines,Recovered
+Labrador,3,Male,18.380705331764787,Allergy,Chemotherapy,Stable
+Golden Retriever,8,Female,46.59782879194387,Infection,Chemotherapy,Stable
+Golden Retriever,14,Female,48.697621032441546,Infection,Surgery,Recovered
+Bulldog,8,Male,47.491992010104525,Allergy,Antihistamines,Deteriorated
+Labrador,2,Female,26.33963974958587,Cancer,Antibiotics,Deceased
+Bulldog,6,Male,43.791919294519104,Allergy,Antihistamines,Deteriorated
+Labrador,7,Male,43.00472293407817,Heart Disease,Surgery,Stable
+Bulldog,2,Female,19.359521295946504,Infection,Chemotherapy,Stable
+German Shepherd,11,Male,42.30119633678048,Diabetes,Surgery,Deteriorated
+German Shepherd,10,Male,6.665343562197168,Heart Disease,Insulin,Recovered
+Poodle,2,Male,31.832144531692386,Infection,Insulin,Deteriorated
+Bulldog,10,Female,15.350397677946637,Allergy,Antibiotics,Deteriorated
+Golden Retriever,1,Female,10.425509859977547,Heart Disease,Surgery,Deceased
+Poodle,8,Female,8.462894073314413,Infection,Antibiotics,Deceased
+German Shepherd,1,Female,36.33299491451629,Cancer,Antibiotics,Deteriorated
+Bulldog,9,Male,20.294373369562976,Cancer,Insulin,Deteriorated
+Poodle,11,Female,37.614504718794265,Diabetes,Antibiotics,Stable
+Bulldog,6,Female,7.941035335952407,Infection,Insulin,Deceased
+German Shepherd,7,Female,19.188065202377466,Cancer,Chemotherapy,Deceased
+Poodle,13,Female,29.277108156890176,Allergy,Surgery,Stable
+German Shepherd,10,Male,40.58254241775336,Infection,Antibiotics,Recovered
+Labrador,7,Male,19.343862631943146,Allergy,Insulin,Deceased
+German Shepherd,10,Male,33.16511193966541,Allergy,Antihistamines,Deceased
+Bulldog,3,Female,44.86899867062842,Cancer,Antibiotics,Recovered
+Golden Retriever,2,Female,32.713843468203706,Infection,Chemotherapy,Deceased
+German Shepherd,9,Male,15.48317636391352,Heart Disease,Chemotherapy,Deceased
+Golden Retriever,8,Female,6.098035170044211,Cancer,Antihistamines,Recovered
+Labrador,13,Female,44.15444932554185,Cancer,Insulin,Recovered
+Poodle,12,Male,5.957123488267421,Infection,Antibiotics,Deteriorated
+Poodle,10,Male,44.361575270788975,Infection,Insulin,Stable
+Golden Retriever,7,Female,28.80217103122454,Allergy,Chemotherapy,Stable
+Poodle,9,Female,47.25804643308033,Infection,Insulin,Recovered
+German Shepherd,4,Female,40.94524560981494,Allergy,Chemotherapy,Recovered
+Golden Retriever,13,Male,49.90703497400018,Cancer,Insulin,Deceased
+Bulldog,4,Male,20.782031695326957,Diabetes,Antihistamines,Deteriorated
+German Shepherd,1,Male,39.52347300190071,Heart Disease,Surgery,Deteriorated
+German Shepherd,8,Male,23.0868911124159,Cancer,Antihistamines,Recovered
+German Shepherd,14,Female,26.594402913675896,Infection,Antihistamines,Deceased
+Bulldog,14,Male,33.237745844826655,Heart Disease,Surgery,Deceased
+Labrador,12,Male,44.315470138385244,Diabetes,Surgery,Stable
+Poodle,3,Female,49.28375611396828,Diabetes,Antibiotics,Stable
+Golden Retriever,7,Female,39.572303623903316,Allergy,Antibiotics,Deceased
+Labrador,12,Female,23.79950519753002,Heart Disease,Antihistamines,Stable
+Golden Retriever,2,Male,23.961065102468158,Allergy,Antihistamines,Recovered
+Poodle,2,Female,38.19120357150012,Cancer,Chemotherapy,Deceased
+Bulldog,7,Female,15.744971559573605,Heart Disease,Chemotherapy,Stable
+German Shepherd,6,Male,9.97133509091276,Cancer,Antibiotics,Deteriorated
+German Shepherd,3,Male,20.957997093834944,Allergy,Antibiotics,Deceased
+Bulldog,9,Female,17.92575462443368,Heart Disease,Chemotherapy,Deceased
+Labrador,10,Male,18.333865420519555,Allergy,Chemotherapy,Deteriorated
+Labrador,14,Female,15.512348797245947,Heart Disease,Insulin,Recovered
+Golden Retriever,13,Female,6.894193533636285,Allergy,Insulin,Deteriorated
+Bulldog,6,Male,5.804327063003622,Diabetes,Chemotherapy,Deceased
+Labrador,10,Female,49.44750753812142,Allergy,Insulin,Recovered
+Bulldog,10,Male,24.249791018113804,Diabetes,Surgery,Stable
+Poodle,6,Male,22.294699122185676,Allergy,Antibiotics,Stable
+German Shepherd,1,Male,35.58412772118814,Heart Disease,Antibiotics,Stable
+German Shepherd,4,Female,14.821424953927888,Heart Disease,Chemotherapy,Deceased
+German Shepherd,10,Male,47.74825327776014,Heart Disease,Antihistamines,Deteriorated
+Bulldog,6,Male,40.38552564869984,Infection,Chemotherapy,Recovered
+Bulldog,6,Female,9.023495104051678,Cancer,Insulin,Stable
+Golden Retriever,11,Female,23.791134910321777,Heart Disease,Antihistamines,Recovered
+German Shepherd,12,Female,44.560323840297414,Diabetes,Insulin,Deceased
+Golden Retriever,5,Female,47.51294100311346,Heart Disease,Surgery,Stable
+German Shepherd,1,Male,26.033068006244136,Infection,Insulin,Deceased
+Golden Retriever,8,Male,32.60351251448185,Diabetes,Surgery,Deteriorated
+Golden Retriever,5,Male,12.516527574143385,Infection,Surgery,Deceased
+Poodle,12,Female,49.60258817616394,Diabetes,Insulin,Deceased
+Golden Retriever,12,Female,15.425226562254952,Allergy,Insulin,Deteriorated
+Bulldog,12,Male,47.422929836080655,Cancer,Surgery,Recovered
+Golden Retriever,5,Female,34.23409920465658,Cancer,Antihistamines,Deteriorated
+German Shepherd,7,Female,32.34815576954866,Infection,Surgery,Deteriorated
+Golden Retriever,4,Male,28.070982995742888,Cancer,Antibiotics,Deceased
+Labrador,6,Male,15.380141527299141,Infection,Surgery,Recovered
+German Shepherd,13,Female,12.943761440247872,Infection,Antihistamines,Stable
+Labrador,4,Female,14.92187940815789,Infection,Antibiotics,Deteriorated
+German Shepherd,14,Female,13.389721796491454,Cancer,Chemotherapy,Recovered
+Bulldog,3,Male,40.081301310503896,Infection,Chemotherapy,Deteriorated
+Bulldog,7,Male,20.755636662502855,Cancer,Antihistamines,Deteriorated
+Bulldog,8,Male,7.6029204453528365,Infection,Surgery,Deteriorated
+Labrador,4,Male,48.60961835633651,Heart Disease,Insulin,Deteriorated
+Poodle,13,Male,44.77036482335416,Infection,Antihistamines,Deceased
+German Shepherd,2,Female,46.74885274378458,Diabetes,Antibiotics,Recovered
+Bulldog,12,Female,49.77085201908959,Infection,Antibiotics,Recovered
+German Shepherd,10,Female,12.825286214876929,Allergy,Chemotherapy,Recovered
+Labrador,14,Male,22.830890850619642,Infection,Antibiotics,Deteriorated
+Poodle,3,Male,39.12073140668411,Diabetes,Antihistamines,Deceased
+Labrador,1,Male,36.32092781242065,Diabetes,Antibiotics,Deteriorated
+German Shepherd,8,Female,11.925315785293478,Cancer,Antihistamines,Deteriorated
+Poodle,3,Male,41.712490624577796,Heart Disease,Insulin,Recovered
+Poodle,12,Male,15.09982573264973,Infection,Chemotherapy,Deteriorated
+Labrador,10,Female,15.07179266701804,Cancer,Antibiotics,Stable
+Bulldog,7,Male,29.16384903020361,Heart Disease,Antihistamines,Deteriorated
+German Shepherd,10,Female,31.682297067876643,Infection,Surgery,Stable
+Golden Retriever,5,Male,31.103879352701505,Allergy,Chemotherapy,Deteriorated
+Golden Retriever,10,Male,9.116907682898969,Infection,Insulin,Deceased
+Labrador,5,Female,44.48573881836712,Diabetes,Antihistamines,Deceased
+German Shepherd,14,Female,16.952001916491774,Diabetes,Insulin,Recovered
+German Shepherd,7,Female,10.828171457726189,Allergy,Insulin,Deteriorated
+Labrador,9,Female,44.99366359410397,Cancer,Antibiotics,Stable
+German Shepherd,12,Female,48.0043174203389,Heart Disease,Antibiotics,Stable
+Bulldog,5,Female,43.795742776945275,Infection,Antihistamines,Deteriorated
+Labrador,1,Male,41.42822336261951,Diabetes,Surgery,Stable
+Bulldog,10,Male,34.48588912875598,Cancer,Antihistamines,Deceased
+German Shepherd,10,Female,29.78858167741127,Allergy,Surgery,Stable
+Labrador,1,Male,8.914404196013457,Diabetes,Insulin,Recovered
+German Shepherd,2,Female,23.380394588181442,Allergy,Chemotherapy,Deceased
+Labrador,14,Male,21.77098326555413,Infection,Antihistamines,Deceased
+German Shepherd,6,Female,16.688920269214677,Heart Disease,Antihistamines,Deceased
+Bulldog,9,Male,37.553905115986325,Diabetes,Surgery,Deteriorated
+Bulldog,8,Male,27.314408078544687,Diabetes,Insulin,Deteriorated
+German Shepherd,13,Male,8.647079715844157,Infection,Insulin,Deceased
+Labrador,5,Male,14.90824408774151,Cancer,Surgery,Deteriorated
+Golden Retriever,1,Male,35.74664436468181,Heart Disease,Insulin,Stable
+Bulldog,13,Female,8.425888677063508,Diabetes,Antibiotics,Deteriorated
+Bulldog,7,Female,43.30431113219459,Heart Disease,Chemotherapy,Deteriorated
+Golden Retriever,5,Female,27.281593715628844,Diabetes,Antihistamines,Deceased
+German Shepherd,6,Male,26.62639597969916,Heart Disease,Chemotherapy,Recovered
+Labrador,13,Female,31.65835030967829,Allergy,Antihistamines,Recovered
+German Shepherd,7,Male,42.110643466631714,Diabetes,Antibiotics,Recovered
+Poodle,3,Male,20.65141435559869,Heart Disease,Insulin,Stable
+Bulldog,12,Male,35.510726865157864,Cancer,Surgery,Deteriorated
+Poodle,10,Female,30.4579383798106,Allergy,Antibiotics,Recovered
+Bulldog,3,Male,17.01627215762396,Allergy,Chemotherapy,Deceased
+Bulldog,5,Female,44.53834938598211,Cancer,Surgery,Recovered
+Poodle,6,Female,40.884170972311765,Heart Disease,Insulin,Recovered
+Poodle,9,Male,34.630332559629146,Infection,Antibiotics,Deteriorated
+German Shepherd,13,Male,43.276177809240885,Cancer,Surgery,Deteriorated
+Poodle,14,Female,44.02823904319111,Heart Disease,Antibiotics,Deteriorated
+German Shepherd,12,Female,36.876333952176566,Cancer,Antibiotics,Stable
+German Shepherd,5,Female,42.66559977636524,Cancer,Insulin,Stable
+German Shepherd,1,Female,36.38621577511776,Diabetes,Antihistamines,Recovered
+Bulldog,14,Female,35.606334729213515,Heart Disease,Surgery,Deteriorated
+Bulldog,14,Female,32.837512019683295,Infection,Insulin,Recovered
+Poodle,14,Male,38.872248780093855,Diabetes,Antibiotics,Deceased
+Bulldog,4,Female,12.137229738188317,Cancer,Insulin,Deceased
+Poodle,5,Female,44.63918416395178,Cancer,Antihistamines,Deteriorated
+Bulldog,12,Female,44.23295874853544,Cancer,Surgery,Deteriorated
+Labrador,10,Female,6.316127736555162,Heart Disease,Antihistamines,Deceased
+Labrador,10,Male,42.16175377541432,Heart Disease,Chemotherapy,Deteriorated
+Poodle,5,Male,10.799144036305034,Diabetes,Surgery,Stable
+Bulldog,7,Female,20.080348441661386,Infection,Antihistamines,Stable
+Bulldog,4,Female,38.45787153312235,Diabetes,Antibiotics,Deteriorated
+German Shepherd,1,Female,12.23419532217387,Allergy,Surgery,Deceased
+Golden Retriever,14,Male,41.8085160853578,Cancer,Surgery,Recovered
+Poodle,14,Male,42.446038008098384,Cancer,Insulin,Deteriorated
+Golden Retriever,5,Male,27.83604801923763,Cancer,Antibiotics,Deteriorated
+Golden Retriever,7,Male,5.287364227257511,Diabetes,Chemotherapy,Recovered
+Poodle,10,Male,17.916715992871076,Diabetes,Antihistamines,Deteriorated
+Bulldog,10,Male,32.7617113269084,Cancer,Insulin,Recovered
+Poodle,6,Female,49.153378011234054,Diabetes,Antihistamines,Deceased
+Golden Retriever,5,Male,33.43160871575007,Heart Disease,Chemotherapy,Stable
+Bulldog,4,Male,16.691161147887193,Heart Disease,Chemotherapy,Deceased
+Labrador,2,Female,33.53025663948251,Diabetes,Surgery,Stable
+Poodle,4,Male,29.299342087213496,Cancer,Chemotherapy,Recovered
+Poodle,10,Female,40.093042781801465,Diabetes,Antihistamines,Stable
+Bulldog,10,Male,9.814128747213129,Diabetes,Antibiotics,Deceased
+Labrador,3,Female,39.24625561259126,Diabetes,Antibiotics,Stable
+Labrador,10,Female,29.356996040424963,Allergy,Surgery,Recovered
+Bulldog,1,Female,48.33464017365476,Heart Disease,Antihistamines,Stable
+German Shepherd,8,Female,20.384247471740874,Infection,Antihistamines,Deteriorated
+Poodle,5,Female,33.467985191027665,Infection,Chemotherapy,Deceased
+Poodle,13,Male,46.94126474795078,Allergy,Antihistamines,Deteriorated
+Golden Retriever,4,Male,9.612937759580566,Diabetes,Insulin,Recovered
+Bulldog,8,Female,47.1752819256403,Allergy,Chemotherapy,Stable
+Golden Retriever,7,Female,35.9548575035366,Allergy,Insulin,Deteriorated
+Golden Retriever,2,Female,8.052667659732736,Cancer,Surgery,Deteriorated
+Labrador,1,Male,18.543360512606732,Heart Disease,Antibiotics,Stable
+Poodle,12,Female,36.86774398903767,Infection,Surgery,Stable
+Golden Retriever,11,Female,8.030777066094727,Diabetes,Antibiotics,Deceased
+Labrador,4,Female,31.197670707932296,Infection,Surgery,Deteriorated
+Bulldog,8,Female,20.564737562883053,Infection,Antihistamines,Deteriorated
+Golden Retriever,12,Male,32.94119829953647,Heart Disease,Insulin,Recovered
+Poodle,2,Female,7.058391521563078,Infection,Antibiotics,Deceased
+Golden Retriever,3,Female,44.219156276856936,Infection,Chemotherapy,Recovered
+Bulldog,12,Male,48.80700361298286,Allergy,Insulin,Deteriorated
+Golden Retriever,1,Female,48.59950348785612,Heart Disease,Chemotherapy,Recovered
+Poodle,1,Female,38.734332428431614,Cancer,Insulin,Deteriorated
+Labrador,13,Male,10.85388080587844,Diabetes,Insulin,Deteriorated
+Poodle,3,Male,39.12184381680601,Infection,Surgery,Recovered
+Labrador,11,Male,6.106411240646068,Diabetes,Antibiotics,Recovered
+German Shepherd,5,Female,5.995559818804876,Cancer,Antibiotics,Stable
+Poodle,12,Female,19.56245986172936,Diabetes,Insulin,Stable
+Poodle,3,Male,26.988943568209958,Cancer,Antihistamines,Stable
+Bulldog,1,Male,39.66833380135069,Allergy,Antihistamines,Deteriorated
+Golden Retriever,1,Male,35.748291947292735,Infection,Chemotherapy,Recovered
+Labrador,8,Female,25.065621786953674,Cancer,Chemotherapy,Deceased
+Labrador,10,Female,17.313199982674966,Diabetes,Surgery,Deteriorated
+Bulldog,11,Male,49.870602507097004,Infection,Insulin,Deceased
+Bulldog,12,Female,24.178158600618783,Allergy,Chemotherapy,Recovered
+Golden Retriever,13,Male,25.312416094835395,Infection,Chemotherapy,Deteriorated
+Golden Retriever,13,Female,12.363071953625113,Cancer,Insulin,Deceased
+Poodle,12,Female,40.76642969374682,Allergy,Surgery,Deceased
+German Shepherd,14,Female,36.21570016016699,Diabetes,Chemotherapy,Stable
+Golden Retriever,2,Female,14.934632575494218,Allergy,Surgery,Stable
+Bulldog,13,Male,8.707147052712921,Allergy,Antibiotics,Stable
+Golden Retriever,3,Female,35.622468593362086,Heart Disease,Surgery,Deteriorated
+Labrador,2,Female,34.45300464265108,Allergy,Antihistamines,Recovered
+German Shepherd,3,Male,17.29667871491942,Allergy,Antihistamines,Recovered
+Poodle,7,Female,47.788860301268464,Infection,Surgery,Stable
+Labrador,1,Male,11.79760513014051,Diabetes,Antihistamines,Stable
+Labrador,10,Male,24.455066046917086,Infection,Antibiotics,Stable
+German Shepherd,8,Female,47.46271640754195,Infection,Insulin,Deceased
+Poodle,13,Female,23.887729261675503,Cancer,Antihistamines,Stable
+Bulldog,10,Male,33.73366764488385,Infection,Antihistamines,Deceased
+Poodle,10,Male,22.891747908325744,Heart Disease,Surgery,Recovered
+Golden Retriever,10,Male,17.339684105690154,Heart Disease,Antibiotics,Deteriorated
+Labrador,14,Female,49.27899415819227,Cancer,Insulin,Deteriorated
+Golden Retriever,2,Male,23.420030284176935,Diabetes,Surgery,Deteriorated
+Bulldog,3,Male,45.23446416556105,Diabetes,Surgery,Deteriorated
+Golden Retriever,9,Male,15.347957265098879,Infection,Antibiotics,Deceased
+Poodle,7,Female,14.58971168112875,Infection,Insulin,Deceased
+Golden Retriever,4,Male,6.401033729803011,Infection,Antibiotics,Stable
+Bulldog,10,Female,34.325007141914824,Diabetes,Insulin,Deceased
+Bulldog,5,Female,21.58368546756925,Allergy,Antibiotics,Stable
+Bulldog,2,Male,43.896121242783664,Heart Disease,Surgery,Stable
+Poodle,13,Female,26.294445801120073,Allergy,Surgery,Deteriorated
+Bulldog,11,Male,48.568704256162476,Allergy,Chemotherapy,Deceased
+Labrador,13,Female,13.348648206640451,Diabetes,Antihistamines,Deceased
+Bulldog,8,Female,44.088042558002485,Allergy,Antibiotics,Stable
+Golden Retriever,4,Male,39.94685837562838,Cancer,Chemotherapy,Stable
+Golden Retriever,9,Male,39.69148300898234,Infection,Antihistamines,Recovered
+Golden Retriever,5,Male,43.01524526525994,Cancer,Antibiotics,Recovered
+Poodle,13,Female,39.24607959243495,Heart Disease,Insulin,Stable
+Golden Retriever,9,Female,33.17991447341369,Infection,Antihistamines,Recovered
+Poodle,4,Male,10.90601949570744,Allergy,Surgery,Recovered
+Poodle,10,Male,6.463678077106336,Heart Disease,Chemotherapy,Stable
+Bulldog,5,Female,46.43815315170591,Infection,Antihistamines,Stable
+Labrador,9,Female,32.74926415343322,Allergy,Antihistamines,Deceased
+Bulldog,8,Female,40.84417809392794,Cancer,Surgery,Stable
+Bulldog,3,Male,26.66850581806475,Infection,Antibiotics,Stable
+Poodle,1,Female,10.278868503307752,Allergy,Insulin,Deteriorated
+Poodle,3,Male,10.63336064911477,Cancer,Surgery,Deceased
+Golden Retriever,4,Female,35.85043792530371,Heart Disease,Insulin,Deceased
+Golden Retriever,2,Female,24.36376527047582,Heart Disease,Antibiotics,Deceased
+Bulldog,1,Male,14.023612701515152,Heart Disease,Antihistamines,Deteriorated
+German Shepherd,7,Male,27.12175460336466,Heart Disease,Insulin,Stable
+German Shepherd,8,Male,7.889402168381034,Diabetes,Chemotherapy,Deceased
+Golden Retriever,7,Female,31.188713086147946,Infection,Chemotherapy,Deceased
+German Shepherd,14,Female,17.104703199579397,Infection,Surgery,Recovered
+Golden Retriever,5,Female,40.890159528673465,Diabetes,Antibiotics,Deceased
+Poodle,12,Male,18.966288151560818,Allergy,Surgery,Stable
+Bulldog,1,Female,25.484906708681052,Allergy,Surgery,Stable
+Labrador,7,Male,5.522924295864529,Heart Disease,Surgery,Recovered
+Bulldog,13,Male,8.26010995075515,Cancer,Chemotherapy,Deceased
+Golden Retriever,7,Male,22.662210038300817,Allergy,Chemotherapy,Deceased
+Golden Retriever,9,Female,26.597247562270557,Cancer,Surgery,Deceased
+Bulldog,3,Female,32.00092466536867,Infection,Chemotherapy,Deteriorated
+Golden Retriever,9,Male,18.124816041918645,Cancer,Antibiotics,Deceased
+German Shepherd,14,Female,36.27418487569442,Infection,Surgery,Stable
+German Shepherd,1,Male,43.70550787351421,Diabetes,Chemotherapy,Stable
+Golden Retriever,1,Male,40.09329450020074,Diabetes,Insulin,Deteriorated
+Golden Retriever,14,Female,6.782847140676072,Heart Disease,Surgery,Deteriorated
+German Shepherd,4,Male,26.622812626602304,Allergy,Surgery,Deceased
+Golden Retriever,9,Male,9.72185802881787,Heart Disease,Antibiotics,Recovered
+Golden Retriever,6,Female,15.892025713813736,Infection,Antihistamines,Deteriorated
+Bulldog,13,Male,49.39981669702159,Heart Disease,Antihistamines,Deteriorated
+Labrador,11,Male,11.412299430568094,Cancer,Antibiotics,Deceased
+German Shepherd,3,Male,27.449966905311022,Infection,Antibiotics,Deceased
+Bulldog,1,Male,32.81700804431536,Diabetes,Antibiotics,Deteriorated
+Labrador,4,Male,36.61092367448468,Allergy,Antihistamines,Recovered
+Golden Retriever,12,Male,30.184190756911136,Infection,Antibiotics,Deteriorated
+Golden Retriever,13,Male,5.439688133863265,Infection,Chemotherapy,Deceased
+Bulldog,9,Female,19.690758870979636,Cancer,Surgery,Deceased
+Golden Retriever,3,Female,28.297023952312014,Allergy,Surgery,Deteriorated
+Poodle,12,Male,8.953992461517501,Diabetes,Insulin,Recovered
+Bulldog,9,Male,20.778211904413133,Infection,Insulin,Deteriorated
+Labrador,7,Female,6.494139895611495,Infection,Surgery,Deteriorated
+Bulldog,12,Female,8.536032371975933,Cancer,Chemotherapy,Deceased
+German Shepherd,14,Female,22.861547429071823,Heart Disease,Antihistamines,Recovered
+Bulldog,4,Female,10.972208931937715,Diabetes,Antihistamines,Stable
+Golden Retriever,3,Female,30.539338171770115,Allergy,Chemotherapy,Recovered
+Golden Retriever,10,Male,36.02592361117696,Infection,Antihistamines,Deteriorated
+Poodle,5,Female,41.026401459908726,Infection,Antibiotics,Deteriorated
+Poodle,5,Female,14.006760991016455,Diabetes,Surgery,Deteriorated
+Poodle,3,Female,12.53671620165814,Heart Disease,Surgery,Recovered
+Labrador,12,Male,9.705552815048012,Infection,Chemotherapy,Deceased
+Poodle,9,Male,33.63936122946365,Diabetes,Antihistamines,Deteriorated
+Labrador,4,Male,36.79140769191055,Cancer,Insulin,Deteriorated
+Poodle,11,Male,6.421376517153892,Heart Disease,Insulin,Recovered
+Labrador,5,Male,47.12955108096604,Allergy,Antihistamines,Stable
+Bulldog,4,Male,7.338707764316259,Infection,Insulin,Stable
+Bulldog,5,Female,29.35833508854817,Diabetes,Chemotherapy,Deceased
+Golden Retriever,7,Male,36.90772337529124,Cancer,Chemotherapy,Deceased
+Labrador,9,Male,44.19361056857385,Allergy,Antihistamines,Deteriorated
+German Shepherd,7,Female,37.13391194595925,Diabetes,Insulin,Recovered
+Golden Retriever,13,Male,41.07776373814063,Diabetes,Chemotherapy,Deteriorated
+Bulldog,5,Female,20.275258664426275,Allergy,Chemotherapy,Deceased
+Labrador,10,Female,41.66713011859305,Cancer,Antibiotics,Recovered
+Poodle,10,Male,8.605168087310382,Cancer,Antibiotics,Recovered
+German Shepherd,7,Female,45.26674952272374,Heart Disease,Chemotherapy,Deceased
+Bulldog,14,Female,29.64165692691813,Infection,Antihistamines,Stable
+Golden Retriever,10,Female,41.77839964831222,Allergy,Surgery,Stable
+Labrador,5,Female,25.354322803323505,Allergy,Surgery,Recovered
+German Shepherd,3,Male,33.96099628384363,Allergy,Chemotherapy,Deteriorated
+Labrador,7,Female,28.688119742125096,Cancer,Chemotherapy,Stable
+Poodle,13,Male,37.921528478989934,Infection,Chemotherapy,Deteriorated
+Golden Retriever,11,Female,8.67334919137653,Heart Disease,Antihistamines,Stable
+Labrador,11,Female,7.715843779575371,Diabetes,Antibiotics,Stable
+Bulldog,2,Female,16.11964553045659,Diabetes,Chemotherapy,Deteriorated
+Golden Retriever,12,Male,12.179510605093476,Allergy,Chemotherapy,Deceased
+Bulldog,9,Male,44.23026049664907,Infection,Insulin,Stable
+Labrador,10,Male,14.864629431111995,Cancer,Antihistamines,Stable
+Golden Retriever,10,Female,48.91393651186091,Infection,Chemotherapy,Deteriorated
+Bulldog,12,Female,20.160310629699808,Infection,Insulin,Deceased
+Poodle,1,Female,13.195306205991468,Cancer,Surgery,Stable
+Poodle,13,Female,40.53643282141156,Allergy,Chemotherapy,Stable
+Labrador,6,Male,34.64184989753943,Infection,Chemotherapy,Deceased
+Golden Retriever,7,Female,27.418807240391253,Diabetes,Insulin,Stable
+German Shepherd,14,Male,29.991359792193407,Cancer,Antihistamines,Deceased
+Golden Retriever,13,Female,37.36408002225187,Heart Disease,Chemotherapy,Deceased
+Poodle,8,Male,15.280463359908442,Allergy,Surgery,Deteriorated
+Bulldog,10,Male,49.83502622255339,Cancer,Chemotherapy,Recovered
+German Shepherd,9,Female,48.86569229660524,Heart Disease,Surgery,Deceased
+Labrador,2,Female,34.26465588561216,Heart Disease,Antibiotics,Deteriorated
+German Shepherd,11,Male,13.979410291811531,Infection,Antibiotics,Recovered
+Labrador,10,Female,35.61027090940811,Infection,Surgery,Stable
+German Shepherd,2,Female,8.248928404062912,Infection,Antihistamines,Recovered
+Labrador,5,Male,6.379362599261273,Cancer,Chemotherapy,Deceased
+Labrador,13,Male,16.595729983004617,Cancer,Chemotherapy,Deceased
+German Shepherd,5,Male,25.818033053269232,Allergy,Antibiotics,Deceased
+German Shepherd,6,Male,44.072262743377124,Infection,Surgery,Deceased
+Labrador,3,Female,37.72260813948386,Heart Disease,Chemotherapy,Deceased
+Poodle,8,Male,38.42179345399914,Diabetes,Chemotherapy,Deteriorated
+German Shepherd,13,Male,24.14720005016339,Allergy,Antihistamines,Deceased
+Golden Retriever,1,Male,20.56707466461333,Cancer,Insulin,Deteriorated
+Bulldog,6,Female,21.696744334307123,Allergy,Antibiotics,Stable
+Labrador,4,Male,49.444230368122604,Allergy,Antibiotics,Deceased
+Labrador,1,Female,6.804913613561712,Allergy,Insulin,Deceased
+Bulldog,7,Male,44.01641732551018,Allergy,Chemotherapy,Recovered
+Poodle,9,Male,31.040393385757703,Diabetes,Antihistamines,Stable
+Bulldog,13,Female,24.73769386353157,Infection,Antihistamines,Deceased
+German Shepherd,4,Male,37.636594718681145,Heart Disease,Antibiotics,Deceased
+Bulldog,4,Male,26.90010236411163,Allergy,Antihistamines,Stable
+Labrador,6,Female,44.304045713674725,Allergy,Insulin,Deteriorated
+Bulldog,12,Male,45.53158388050663,Allergy,Chemotherapy,Deceased
+Golden Retriever,3,Male,23.977441709305495,Infection,Insulin,Recovered
+German Shepherd,13,Male,17.457250875577323,Cancer,Surgery,Deceased
+Bulldog,12,Male,31.6557647867013,Cancer,Antibiotics,Recovered
+Labrador,6,Female,46.05635055275109,Diabetes,Antihistamines,Recovered
+German Shepherd,7,Male,14.479798505254996,Cancer,Surgery,Deceased
+Labrador,11,Female,33.03349626035673,Allergy,Antihistamines,Deceased
+Poodle,10,Male,33.42020990416343,Allergy,Chemotherapy,Recovered
+Golden Retriever,10,Female,37.99008600868764,Allergy,Chemotherapy,Stable
+Poodle,3,Male,10.920545830726692,Diabetes,Chemotherapy,Stable
+Golden Retriever,7,Female,37.212123410693984,Allergy,Antihistamines,Deceased
+Bulldog,14,Male,45.906463429953845,Cancer,Surgery,Deteriorated
+German Shepherd,3,Female,13.085739899160888,Infection,Chemotherapy,Stable
+Bulldog,13,Female,15.689449621574493,Infection,Surgery,Deceased
+Golden Retriever,13,Male,48.71277923187378,Heart Disease,Antihistamines,Stable
+Golden Retriever,2,Female,13.14396287192704,Cancer,Surgery,Deteriorated
+Golden Retriever,12,Male,43.447329201631064,Allergy,Antihistamines,Deceased
+Labrador,14,Male,27.152503540161565,Infection,Antihistamines,Deteriorated
+German Shepherd,10,Male,16.125398348142966,Cancer,Antibiotics,Deceased
+Bulldog,4,Male,44.183745557263016,Infection,Antihistamines,Deteriorated
+Bulldog,12,Male,25.038736475119947,Allergy,Antihistamines,Stable
+Poodle,8,Female,28.166780926836058,Infection,Insulin,Stable
+Golden Retriever,13,Male,21.165501622989456,Heart Disease,Chemotherapy,Deteriorated
+Golden Retriever,9,Male,31.682788314571734,Heart Disease,Antibiotics,Deteriorated
+Golden Retriever,7,Male,12.358574266326023,Infection,Antibiotics,Deteriorated
+Bulldog,1,Male,22.598669149329233,Cancer,Antibiotics,Deceased
+Poodle,3,Male,48.62355450508794,Cancer,Insulin,Stable
+Labrador,13,Male,16.61600447155074,Cancer,Antihistamines,Deceased
+German Shepherd,12,Female,34.55314990435815,Infection,Chemotherapy,Stable
+Labrador,14,Female,19.633552890111268,Cancer,Surgery,Recovered
+Bulldog,9,Male,39.80629065589703,Allergy,Antihistamines,Deceased
+Golden Retriever,12,Female,10.889314732325742,Heart Disease,Insulin,Stable
+German Shepherd,1,Male,48.64194702853451,Allergy,Antihistamines,Stable
+Bulldog,9,Male,25.420529362263768,Cancer,Antihistamines,Deceased
+Bulldog,8,Male,15.622270850590878,Allergy,Insulin,Deceased
+Bulldog,1,Male,8.307353629850569,Cancer,Antibiotics,Stable
+German Shepherd,6,Male,12.639105728939334,Infection,Antibiotics,Deceased
+German Shepherd,5,Female,28.389827685020794,Allergy,Chemotherapy,Deteriorated
+Poodle,6,Female,20.165142939407886,Infection,Chemotherapy,Deceased
+Poodle,10,Female,42.299751464717424,Infection,Antibiotics,Deceased
+Labrador,12,Female,24.389938564781268,Diabetes,Surgery,Deceased
+German Shepherd,13,Male,16.192142266443348,Cancer,Antihistamines,Stable
+German Shepherd,13,Female,32.77152439718135,Heart Disease,Surgery,Deteriorated
+German Shepherd,13,Male,36.80497475984507,Cancer,Antihistamines,Recovered
+Poodle,5,Female,12.516885855542743,Heart Disease,Antibiotics,Recovered
+Bulldog,6,Female,12.542864732974294,Cancer,Chemotherapy,Deteriorated
+Golden Retriever,5,Female,6.650214212009434,Infection,Chemotherapy,Deteriorated
+Poodle,11,Female,38.13809067795383,Allergy,Surgery,Deteriorated
+German Shepherd,12,Male,34.87120374298123,Allergy,Chemotherapy,Stable
+Poodle,5,Female,26.358389408741626,Diabetes,Antibiotics,Recovered
+Labrador,4,Female,42.987670203613874,Heart Disease,Surgery,Deteriorated
+German Shepherd,3,Male,41.255156882752395,Heart Disease,Antihistamines,Stable
+Labrador,3,Male,31.34094639785385,Heart Disease,Chemotherapy,Recovered
+German Shepherd,4,Female,44.07220762309664,Infection,Insulin,Deceased
+Poodle,9,Male,14.26285445165457,Heart Disease,Chemotherapy,Stable
+Bulldog,2,Male,10.036382872897754,Allergy,Antihistamines,Recovered
+Golden Retriever,9,Male,17.138732518264533,Infection,Surgery,Stable
+Labrador,1,Female,7.568908524019168,Cancer,Antihistamines,Recovered
+Poodle,14,Male,28.90262876004644,Heart Disease,Insulin,Recovered
+Bulldog,1,Female,47.14725615327327,Heart Disease,Antibiotics,Deceased
+Poodle,5,Female,6.770459330082934,Cancer,Chemotherapy,Stable
+Labrador,6,Female,10.494946130451206,Heart Disease,Surgery,Deteriorated
+Golden Retriever,6,Female,25.348956272754588,Cancer,Antibiotics,Deceased
+Poodle,3,Male,47.02437578875572,Infection,Antihistamines,Deceased
+German Shepherd,7,Female,19.227024723953775,Allergy,Surgery,Recovered
+Bulldog,9,Male,27.82556639097766,Cancer,Antibiotics,Deteriorated
+Poodle,11,Female,6.870778657267644,Diabetes,Surgery,Stable
+Bulldog,12,Male,11.675444043293998,Cancer,Insulin,Deteriorated
+German Shepherd,10,Female,49.39835553314811,Heart Disease,Insulin,Deteriorated
+Golden Retriever,8,Male,48.430341339622046,Infection,Chemotherapy,Deteriorated
+Golden Retriever,6,Female,5.222299142048433,Infection,Chemotherapy,Deteriorated
+German Shepherd,12,Female,47.83153034404575,Cancer,Insulin,Deteriorated
+Bulldog,8,Male,33.760397201697515,Allergy,Surgery,Recovered
+Poodle,12,Female,44.056323253401,Diabetes,Insulin,Recovered
+German Shepherd,5,Female,25.46329350352366,Infection,Chemotherapy,Deceased
+Labrador,8,Female,28.20182128606626,Heart Disease,Insulin,Recovered
+Bulldog,10,Male,26.99809611156141,Heart Disease,Insulin,Deceased
+Golden Retriever,12,Female,35.008891589574695,Allergy,Surgery,Deceased
+German Shepherd,4,Female,11.284306464034081,Infection,Antibiotics,Stable
+Golden Retriever,10,Male,6.348811544270507,Cancer,Chemotherapy,Deteriorated
+Bulldog,8,Male,18.856847371603592,Heart Disease,Surgery,Recovered
+Golden Retriever,10,Male,36.7106343231491,Allergy,Insulin,Stable
+German Shepherd,12,Male,14.083405345532677,Infection,Insulin,Recovered
+Bulldog,2,Male,35.30445949962128,Infection,Antibiotics,Deceased
+Labrador,12,Female,48.64604207482717,Infection,Chemotherapy,Recovered
+German Shepherd,12,Female,9.225532210523827,Infection,Chemotherapy,Deteriorated
+Poodle,5,Female,35.26709532013068,Infection,Antihistamines,Deceased
+German Shepherd,9,Male,24.968759868705703,Heart Disease,Chemotherapy,Deceased
+Bulldog,4,Female,44.06640144698774,Allergy,Antibiotics,Stable
+German Shepherd,11,Male,12.971740525132365,Infection,Antihistamines,Deteriorated
+Labrador,6,Male,36.168167850177404,Diabetes,Antihistamines,Deceased
+Labrador,1,Female,42.71518803416496,Diabetes,Insulin,Deteriorated
+Poodle,9,Male,47.50763987633105,Allergy,Insulin,Recovered
+Golden Retriever,1,Male,35.74616127303406,Cancer,Chemotherapy,Deteriorated
+Bulldog,5,Female,27.37286438037923,Cancer,Antihistamines,Deceased
+Bulldog,4,Male,32.80312580905462,Cancer,Insulin,Stable
+Golden Retriever,13,Male,44.10072430154232,Diabetes,Antibiotics,Deceased
+Labrador,12,Female,30.677438598747337,Cancer,Insulin,Deteriorated
+Labrador,13,Male,6.367417686357658,Heart Disease,Insulin,Deteriorated
+German Shepherd,13,Male,46.892691297814004,Infection,Antihistamines,Deceased
+Poodle,14,Female,36.02870379642025,Diabetes,Antihistamines,Deteriorated
+Poodle,3,Female,35.443102359976095,Allergy,Surgery,Recovered
+Poodle,13,Female,14.705381857897272,Allergy,Antibiotics,Deceased
+German Shepherd,6,Female,34.64984616046958,Infection,Antihistamines,Stable
+Poodle,2,Male,22.72389825443713,Diabetes,Chemotherapy,Deceased
+Golden Retriever,3,Male,34.30548396686714,Cancer,Antibiotics,Recovered
+German Shepherd,5,Female,9.796686363859582,Cancer,Antibiotics,Recovered
+Golden Retriever,9,Male,34.60303870713662,Heart Disease,Antihistamines,Recovered
+German Shepherd,2,Male,49.973617659679995,Heart Disease,Antibiotics,Recovered
+Poodle,10,Female,7.169541748725021,Cancer,Antihistamines,Recovered
+Golden Retriever,8,Female,48.97283828995928,Allergy,Insulin,Stable
+Golden Retriever,14,Male,23.310858232529178,Allergy,Surgery,Deteriorated
+Golden Retriever,2,Female,44.18390526517666,Heart Disease,Insulin,Recovered
+German Shepherd,11,Female,40.2073467826223,Infection,Antihistamines,Recovered
+Bulldog,13,Female,30.51573174440005,Cancer,Antihistamines,Deceased
+Poodle,5,Male,38.23021441630969,Heart Disease,Insulin,Stable
+Golden Retriever,7,Female,44.533200258560655,Heart Disease,Chemotherapy,Stable
+Bulldog,8,Male,23.186314474296484,Cancer,Chemotherapy,Deteriorated
+Poodle,1,Male,19.71649227034574,Cancer,Chemotherapy,Stable
+Poodle,6,Male,35.04170235036131,Allergy,Antihistamines,Deceased
+Golden Retriever,1,Female,41.35306738735664,Infection,Antibiotics,Deceased
+Golden Retriever,2,Female,39.30283106494771,Infection,Antihistamines,Deteriorated
+German Shepherd,1,Female,40.901614198638555,Cancer,Antibiotics,Deceased
+Bulldog,11,Female,24.601249166581987,Diabetes,Insulin,Recovered
+Bulldog,5,Female,41.802539727875974,Heart Disease,Surgery,Recovered
+Golden Retriever,10,Male,10.40940749167738,Heart Disease,Antibiotics,Deceased
+Poodle,9,Male,29.50200940823823,Cancer,Chemotherapy,Deteriorated
+Golden Retriever,6,Male,5.259139722415471,Diabetes,Antihistamines,Stable
+Poodle,11,Female,19.606362345512164,Allergy,Insulin,Deteriorated
+Poodle,11,Male,21.490769069212906,Cancer,Chemotherapy,Stable
+Golden Retriever,1,Male,22.827771122416493,Cancer,Insulin,Deceased
+Labrador,13,Female,36.2960243010438,Heart Disease,Surgery,Deceased
+Bulldog,1,Female,22.48511455716556,Cancer,Antihistamines,Recovered
+Poodle,2,Male,25.19121301801388,Cancer,Antihistamines,Stable
+Poodle,9,Male,15.689485889344736,Cancer,Surgery,Deteriorated
+Labrador,3,Female,21.796330623320305,Heart Disease,Antihistamines,Deceased
+German Shepherd,1,Female,15.227133226841817,Allergy,Antibiotics,Deteriorated
+Labrador,5,Female,8.293816569579963,Allergy,Insulin,Recovered
+Labrador,7,Female,32.155186702162005,Cancer,Chemotherapy,Stable
+Poodle,6,Male,35.06957593497573,Heart Disease,Surgery,Stable
+Bulldog,12,Male,32.87706557043265,Allergy,Antibiotics,Deceased
+Labrador,1,Female,25.857231971025755,Allergy,Chemotherapy,Stable
+German Shepherd,5,Male,22.09036010806534,Allergy,Chemotherapy,Deceased
+Golden Retriever,5,Male,43.850014230732135,Heart Disease,Surgery,Recovered
+Labrador,6,Female,28.35868033112981,Heart Disease,Antibiotics,Stable
+Labrador,3,Male,26.563184493337893,Cancer,Chemotherapy,Deceased
+German Shepherd,5,Male,6.153892961289606,Infection,Chemotherapy,Deteriorated
+Bulldog,7,Male,20.356152243177036,Allergy,Antibiotics,Deceased
+Labrador,5,Female,22.108802845363567,Infection,Antihistamines,Stable
+Labrador,5,Female,22.947025140360523,Heart Disease,Chemotherapy,Recovered
+Bulldog,5,Male,31.107756615229953,Heart Disease,Insulin,Stable
+German Shepherd,10,Female,29.01211460270953,Heart Disease,Antibiotics,Stable
+Labrador,10,Female,32.35572917570501,Infection,Chemotherapy,Deceased
+Bulldog,3,Female,39.41974676939577,Heart Disease,Surgery,Deteriorated
+Labrador,1,Male,41.584358242224205,Cancer,Insulin,Stable
+Golden Retriever,5,Male,37.31553843019225,Heart Disease,Chemotherapy,Deteriorated
+Poodle,14,Female,47.99856631797206,Diabetes,Insulin,Deceased
+Golden Retriever,9,Male,5.820466220436273,Infection,Insulin,Deteriorated
+Labrador,14,Male,13.810009355759574,Diabetes,Antihistamines,Deceased
+German Shepherd,1,Male,5.340329374016395,Heart Disease,Insulin,Recovered
+Poodle,3,Male,34.13636213695713,Cancer,Antihistamines,Deteriorated
+Golden Retriever,13,Male,45.41137470274941,Allergy,Antibiotics,Deteriorated
+Bulldog,13,Female,15.956703345933468,Heart Disease,Antihistamines,Recovered
+German Shepherd,4,Male,46.7165545158338,Cancer,Surgery,Deteriorated
+Golden Retriever,14,Male,7.712032563030238,Infection,Chemotherapy,Recovered
+Bulldog,1,Male,47.04962120624814,Diabetes,Antibiotics,Stable
+Labrador,1,Female,20.82302092578355,Diabetes,Antibiotics,Deceased
+Bulldog,8,Female,9.563937280214743,Diabetes,Surgery,Recovered
+Golden Retriever,2,Female,26.864229163384653,Infection,Antihistamines,Deteriorated
+Golden Retriever,12,Male,16.554945547422857,Cancer,Chemotherapy,Recovered
+Labrador,8,Female,17.819280588286528,Infection,Antihistamines,Deteriorated
+Bulldog,7,Female,18.828048421682894,Diabetes,Insulin,Stable
+Bulldog,10,Female,41.13616540246986,Heart Disease,Antihistamines,Recovered
+Labrador,10,Female,29.262257450386453,Allergy,Antibiotics,Stable
+Bulldog,2,Male,19.008846462020166,Infection,Chemotherapy,Deceased
+Labrador,6,Female,32.46502024899132,Infection,Antihistamines,Deteriorated
+German Shepherd,6,Female,37.22678034004371,Cancer,Chemotherapy,Deteriorated
+Golden Retriever,3,Male,17.26808003300902,Cancer,Chemotherapy,Stable
+German Shepherd,11,Male,23.609709568640817,Infection,Insulin,Deceased
+Poodle,2,Female,10.48487420016264,Diabetes,Insulin,Recovered
+Poodle,12,Male,13.151720729060614,Allergy,Antibiotics,Recovered
+Poodle,1,Female,35.65030342842422,Cancer,Surgery,Deteriorated
+Labrador,6,Male,13.164725646303213,Diabetes,Chemotherapy,Stable
+Bulldog,12,Male,28.63235226501771,Heart Disease,Surgery,Stable
+German Shepherd,5,Female,36.907081777509475,Cancer,Antibiotics,Recovered
+German Shepherd,14,Male,9.809461539263474,Diabetes,Chemotherapy,Deceased
+German Shepherd,14,Female,30.529049883300658,Diabetes,Chemotherapy,Deceased
+German Shepherd,11,Male,16.54532526656137,Allergy,Surgery,Recovered
+Poodle,9,Female,48.33170938569109,Allergy,Antihistamines,Recovered
+German Shepherd,1,Male,26.759554102396613,Heart Disease,Insulin,Stable
+Bulldog,7,Male,41.26966473988212,Diabetes,Antihistamines,Deceased
+Poodle,5,Male,29.76019439703178,Diabetes,Surgery,Recovered
+German Shepherd,5,Male,6.953563978466862,Allergy,Insulin,Recovered
+Labrador,14,Male,33.491811901731005,Cancer,Antihistamines,Deteriorated
+Golden Retriever,2,Female,47.813150399299566,Cancer,Insulin,Recovered
+Golden Retriever,11,Male,32.0725319065849,Infection,Chemotherapy,Recovered
+Golden Retriever,3,Female,41.86349867420556,Allergy,Antihistamines,Deceased
+Poodle,7,Female,44.78929085067835,Infection,Insulin,Stable
+German Shepherd,6,Female,15.263589737701961,Allergy,Insulin,Deceased
+Poodle,12,Male,14.5420177958702,Heart Disease,Insulin,Stable
+Bulldog,2,Female,32.49414449829463,Diabetes,Antihistamines,Deteriorated
+Labrador,6,Male,23.49628114130171,Heart Disease,Antibiotics,Recovered
+Labrador,2,Female,42.79375862900242,Allergy,Antihistamines,Deteriorated
+Golden Retriever,2,Female,45.5010405529105,Diabetes,Surgery,Stable
+Golden Retriever,2,Female,20.903962068622313,Cancer,Antihistamines,Deceased
+Golden Retriever,14,Female,15.659175153851693,Cancer,Insulin,Deceased
+German Shepherd,11,Female,40.123648185973785,Infection,Chemotherapy,Deteriorated
+Bulldog,3,Male,17.366271599666124,Allergy,Antihistamines,Stable
+Bulldog,2,Female,42.01764433311553,Allergy,Antihistamines,Deteriorated
+Bulldog,4,Female,24.068221414194326,Cancer,Insulin,Deteriorated
+Bulldog,9,Male,35.039745468116166,Heart Disease,Chemotherapy,Recovered
+Golden Retriever,6,Male,9.29908912256007,Diabetes,Chemotherapy,Deteriorated
+Labrador,1,Male,33.07366961044579,Heart Disease,Surgery,Recovered
+Golden Retriever,8,Female,25.32954554317531,Heart Disease,Antihistamines,Recovered
+Bulldog,12,Female,31.397380842896336,Cancer,Chemotherapy,Deceased
+Golden Retriever,14,Female,12.560639348518855,Cancer,Chemotherapy,Recovered
+Bulldog,7,Female,38.15931852248819,Cancer,Antibiotics,Recovered
+Poodle,10,Female,43.825868489445284,Infection,Antibiotics,Deceased
